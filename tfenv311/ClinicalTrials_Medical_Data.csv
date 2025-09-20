@@ -1,0 +1,61 @@
+condition,treatment_type,success_rate,avg_improvement_percent,adverse_events_per_100,total_patients_studied,number_of_studies,evidence_strength_score,treatment_recommendation_score,recommended_treatment,high_evidence,data_source,treats_type_2_diabetes_mellitus,treats_hypertension,treats_cardiovascular_disease,treats_stroke,treats_cancer,treats_chronic_kidney_disease,treats_asthma,treats_copd,treats_pneumonia,treats_liver_disease,uses_behavioral_intervention,uses_lifestyle_modification,uses_dietary_supplement,uses_drug_intervention,uses_procedure,uses_device_intervention,is_recommended_treatment,has_strong_evidence,is_low_risk_treatment,is_highly_effective
+Type 2 Diabetes Mellitus,Behavioral Intervention,0.625,8.186847003574385,32.14378343564788,6191,8,100.0,51.02729741394273,False,True,ClinicalTrials_evidence,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Type 2 Diabetes Mellitus,Lifestyle Modification,0.8571428571428571,12.084473161968996,49.889470280545666,2170,7,91.7,57.10316217819586,False,True,ClinicalTrials_evidence,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Type 2 Diabetes Mellitus,Dietary Supplement,0.5714285714285714,9.666256659600482,41.293686691573946,7055,7,100.0,47.498282516708215,False,True,ClinicalTrials_evidence,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Type 2 Diabetes Mellitus,Drug Intervention,0.4166666666666667,5.44264926751708,47.255991877535514,5555,12,100.0,38.84826307141469,False,True,ClinicalTrials_evidence,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Type 2 Diabetes Mellitus,Procedure,0.2,4.056288273802921,43.06028166497906,4774,10,100.0,30.604830149145066,False,True,ClinicalTrials_evidence,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Type 2 Diabetes Mellitus,Device Intervention,0.16666666666666666,4.15525226924471,46.06788409277525,5161,6,100.0,28.699665528885028,False,True,ClinicalTrials_evidence,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Hypertension,Behavioral Intervention,0.8,12.844653314775105,27.62425910537803,5861,5,100.0,60.328544173356924,True,True,ClinicalTrials_evidence,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+Hypertension,Lifestyle Modification,1.0,10.671453699472115,16.933614548576326,3393,3,63.93,66.20771320012638,True,True,ClinicalTrials_evidence,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1
+Hypertension,Dietary Supplement,0.0,2.848905231545808,29.728255732053537,1220,3,42.2,19.129020423053035,False,False,ClinicalTrials_evidence,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Hypertension,Drug Intervention,0.75,10.048443886766131,49.073555851888116,1139,4,51.39,48.338821995652225,False,True,ClinicalTrials_evidence,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+Hypertension,Procedure,0.3333333333333333,5.456529332719935,35.20608484225655,3249,6,92.49000000000001,37.178075164698,False,True,ClinicalTrials_evidence,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Hypertension,Device Intervention,0.3,5.895563880856685,44.470327840519914,4674,10,100.0,34.87460359615302,False,True,ClinicalTrials_evidence,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Cardiovascular Disease,Behavioral Intervention,0.5,16.4949911579845,52.69777511880203,1864,4,58.64,40.27294232363495,False,True,ClinicalTrials_evidence,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Cardiovascular Disease,Lifestyle Modification,0.3076923076923077,25.559538456852195,50.61283269219536,6816,13,100.0,39.8529873063089,False,True,ClinicalTrials_evidence,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Cardiovascular Disease,Dietary Supplement,0.25,17.824699447470422,45.03937135579842,4533,8,100.0,36.33953556308144,False,True,ClinicalTrials_evidence,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Cardiovascular Disease,Drug Intervention,0.6666666666666666,33.2267534741484,45.4392876911216,1939,3,49.39,52.48583517068687,False,False,ClinicalTrials_evidence,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Cardiovascular Disease,Procedure,0.5,16.957351846994268,56.4031906673648,7342,8,100.0,43.80656742062532,False,True,ClinicalTrials_evidence,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Cardiovascular Disease,Device Intervention,0.4,13.506299722129986,44.14578022628292,4833,5,98.33,41.05573387138241,False,True,ClinicalTrials_evidence,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Stroke,Behavioral Intervention,0.4,20.8390698574442,46.27119946766339,2780,5,77.8,40.777481063700584,False,True,ClinicalTrials_evidence,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Stroke,Lifestyle Modification,0.5,36.91742095246042,49.91568836045179,5962,6,100.0,51.09208861364777,False,True,ClinicalTrials_evidence,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Stroke,Dietary Supplement,0.36363636363636365,20.31002398808348,59.30761495215088,6697,11,100.0,38.776938751449414,False,True,ClinicalTrials_evidence,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Stroke,Drug Intervention,0.4444444444444444,21.688683538532946,50.698182439808036,7157,9,100.0,44.14474635137606,False,True,ClinicalTrials_evidence,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Stroke,Procedure,0.5,50.28050570053374,81.73805361305361,508,2,25.08,41.2445409875494,False,False,ClinicalTrials_evidence,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Stroke,Device Intervention,0.5714285714285714,34.29165874983725,59.261649558715554,4215,7,100.0,51.292310570350914,False,True,ClinicalTrials_evidence,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Cancer,Behavioral Intervention,0.1,13.260152907545324,70.19769757844261,5391,10,100.0,23.938506356575076,False,True,ClinicalTrials_evidence,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Cancer,Lifestyle Modification,0.29411764705882354,23.56301673545923,68.01258334023437,13779,17,100.0,35.23109423494384,False,True,ClinicalTrials_evidence,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Cancer,Dietary Supplement,0.25,41.705943584869,62.70894854324871,8041,12,100.0,39.969993366810954,False,True,ClinicalTrials_evidence,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Cancer,Drug Intervention,0.6153846153846154,49.05525930357706,61.86183772541498,10521,13,100.0,56.95959486137474,False,True,ClinicalTrials_evidence,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Cancer,Procedure,0.3333333333333333,20.77793014840158,58.41457788441545,3178,3,61.78,34.06179680097071,False,True,ClinicalTrials_evidence,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Cancer,Device Intervention,0.375,39.26340339345131,64.91346131632822,6582,8,100.0,43.796328754769746,False,True,ClinicalTrials_evidence,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Chronic Kidney Disease,Behavioral Intervention,0.5,34.39293859348864,54.402835245381254,5556,8,100.0,49.43731452897034,False,True,ClinicalTrials_evidence,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Chronic Kidney Disease,Lifestyle Modification,0.0,8.952410059468617,47.382797794835334,4417,5,94.17,22.62616345887352,False,True,ClinicalTrials_evidence,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Chronic Kidney Disease,Dietary Supplement,0.5714285714285714,30.877829828469853,45.28962186549773,6214,7,100.0,53.06256743258427,False,True,ClinicalTrials_evidence,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Chronic Kidney Disease,Drug Intervention,0.4,39.54584501366533,52.95816272969945,3879,5,88.78999999999999,46.15112095815971,False,True,ClinicalTrials_evidence,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Chronic Kidney Disease,Procedure,0.2222222222222222,18.717336587105944,53.987957788836184,7815,9,100.0,33.70649830725344,False,True,ClinicalTrials_evidence,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Chronic Kidney Disease,Device Intervention,0.2222222222222222,17.869248531525844,59.899152090489764,4604,9,100.0,32.26983303024869,False,True,ClinicalTrials_evidence,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Asthma,Behavioral Intervention,0.5714285714285714,42.02136146163169,29.044432497755242,8238,7,100.0,59.65466479608132,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+Asthma,Lifestyle Modification,0.8333333333333334,52.08179566952629,38.32195193668395,6121,12,100.0,71.29348164685443,True,True,ClinicalTrials_evidence,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1
+Asthma,Dietary Supplement,0.5,42.92258031077053,36.8477519760447,7270,10,100.0,55.507223698022216,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+Asthma,Drug Intervention,0.5,24.909682187057847,48.467974665742624,1041,4,50.41,42.82030972296883,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+Asthma,Procedure,0.6,31.890248932197217,36.92396025942642,5152,10,100.0,56.18228262777388,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+Asthma,Device Intervention,0.15384615384615385,18.285160399808365,51.13458740275173,7464,13,100.0,31.41247679323832,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+COPD,Behavioral Intervention,0.3333333333333333,21.537545915695617,54.03173612262509,5593,9,100.0,38.988249883517,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+COPD,Lifestyle Modification,0.4,31.902707402513137,51.233572466626,4723,10,100.0,45.32409772742874,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+COPD,Dietary Supplement,0.5833333333333334,32.809704330974554,48.51505370739067,9610,12,100.0,53.47323389114757,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+COPD,Drug Intervention,0.5555555555555556,35.37274797947178,57.10057903303469,4087,9,100.0,51.41393080945682,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0
+COPD,Procedure,0.3333333333333333,20.300894657397645,42.583160187761145,6730,12,100.0,40.9069696930004,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+COPD,Device Intervention,0.5,25.559109499264828,50.78993002402434,4987,8,100.0,47.50974684497458,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+Pneumonia,Behavioral Intervention,0.5833333333333334,30.82530703777364,38.58603681254571,9726,12,100.0,54.86371808215628,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+Pneumonia,Lifestyle Modification,0.4444444444444444,31.829440964356607,42.57374095796298,3419,9,100.0,48.81186187549216,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+Pneumonia,Dietary Supplement,0.5,38.50386426362014,34.80618532519776,5146,10,100.0,54.589922214046496,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0
+Pneumonia,Drug Intervention,0.1,9.742902470550339,47.888303648682935,3963,10,100.0,27.345210011428517,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+Pneumonia,Procedure,0.36363636363636365,24.518895058243086,37.926427217889795,6813,11,100.0,44.31583761934951,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+Pneumonia,Device Intervention,0.2857142857142857,15.586756170759653,36.30806180116899,4012,7,100.0,38.84298591956552,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+Liver Disease,Behavioral Intervention,0.2222222222222222,20.071587243502854,51.83102050599184,6892,9,100.0,34.54416096074138,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+Liver Disease,Lifestyle Modification,0.4,25.018305648743848,57.771039934120964,2556,10,100.0,41.951283707798964,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+Liver Disease,Dietary Supplement,0.5,24.87310069594133,52.97885384640308,8220,12,100.0,46.866159439501786,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
+Liver Disease,Drug Intervention,0.1111111111111111,15.290009206044223,57.795606976774216,4327,9,100.0,27.472325810902866,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+Liver Disease,Procedure,0.7142857142857143,45.789069278606455,55.559701406259464,4673,7,100.0,61.19620907375862,True,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1
+Liver Disease,Device Intervention,0.14285714285714285,8.738684659912915,51.7488749116228,3377,7,100.0,27.986116129935027,False,True,ClinicalTrials_evidence,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0

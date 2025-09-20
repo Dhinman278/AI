@@ -1,0 +1,601 @@
+disease,age_group,gender,race,prevalence_risk,age_risk,composite_risk_score,risk_category,data_source
+diabetes mellitus,0-17,Male,White,1.1,1,1.06,Low,CDC_WONDER_integrated
+diabetes mellitus,0-17,Male,Black,1.1,1,1.06,Low,CDC_WONDER_integrated
+diabetes mellitus,0-17,Male,Hispanic,1.1,1,1.06,Low,CDC_WONDER_integrated
+diabetes mellitus,0-17,Male,Asian,1.1,1,1.06,Low,CDC_WONDER_integrated
+diabetes mellitus,0-17,Male,Other,1.1,1,1.06,Low,CDC_WONDER_integrated
+diabetes mellitus,0-17,Female,White,1.1,1,1.06,Low,CDC_WONDER_integrated
+diabetes mellitus,0-17,Female,Black,1.1,1,1.06,Low,CDC_WONDER_integrated
+diabetes mellitus,0-17,Female,Hispanic,1.1,1,1.06,Low,CDC_WONDER_integrated
+diabetes mellitus,0-17,Female,Asian,1.1,1,1.06,Low,CDC_WONDER_integrated
+diabetes mellitus,0-17,Female,Other,1.1,1,1.06,Low,CDC_WONDER_integrated
+diabetes mellitus,18-34,Male,White,3.3000000000000003,2,2.7800000000000002,Low,CDC_WONDER_integrated
+diabetes mellitus,18-34,Male,Black,3.3000000000000003,2,2.7800000000000002,Low,CDC_WONDER_integrated
+diabetes mellitus,18-34,Male,Hispanic,3.3000000000000003,2,2.7800000000000002,Low,CDC_WONDER_integrated
+diabetes mellitus,18-34,Male,Asian,3.3000000000000003,2,2.7800000000000002,Low,CDC_WONDER_integrated
+diabetes mellitus,18-34,Male,Other,3.3000000000000003,2,2.7800000000000002,Low,CDC_WONDER_integrated
+diabetes mellitus,18-34,Female,White,3.3000000000000003,2,2.7800000000000002,Low,CDC_WONDER_integrated
+diabetes mellitus,18-34,Female,Black,3.3000000000000003,2,2.7800000000000002,Low,CDC_WONDER_integrated
+diabetes mellitus,18-34,Female,Hispanic,3.3000000000000003,2,2.7800000000000002,Low,CDC_WONDER_integrated
+diabetes mellitus,18-34,Female,Asian,3.3000000000000003,2,2.7800000000000002,Low,CDC_WONDER_integrated
+diabetes mellitus,18-34,Female,Other,3.3000000000000003,2,2.7800000000000002,Low,CDC_WONDER_integrated
+diabetes mellitus,35-49,Male,White,7.7,4,6.220000000000001,Medium,CDC_WONDER_integrated
+diabetes mellitus,35-49,Male,Black,7.7,4,6.220000000000001,Medium,CDC_WONDER_integrated
+diabetes mellitus,35-49,Male,Hispanic,7.7,4,6.220000000000001,Medium,CDC_WONDER_integrated
+diabetes mellitus,35-49,Male,Asian,7.7,4,6.220000000000001,Medium,CDC_WONDER_integrated
+diabetes mellitus,35-49,Male,Other,7.7,4,6.220000000000001,Medium,CDC_WONDER_integrated
+diabetes mellitus,35-49,Female,White,7.7,4,6.220000000000001,Medium,CDC_WONDER_integrated
+diabetes mellitus,35-49,Female,Black,7.7,4,6.220000000000001,Medium,CDC_WONDER_integrated
+diabetes mellitus,35-49,Female,Hispanic,7.7,4,6.220000000000001,Medium,CDC_WONDER_integrated
+diabetes mellitus,35-49,Female,Asian,7.7,4,6.220000000000001,Medium,CDC_WONDER_integrated
+diabetes mellitus,35-49,Female,Other,7.7,4,6.220000000000001,Medium,CDC_WONDER_integrated
+diabetes mellitus,50-64,Male,White,13.200000000000001,6,10.32,Medium,CDC_WONDER_integrated
+diabetes mellitus,50-64,Male,Black,13.200000000000001,6,10.32,Medium,CDC_WONDER_integrated
+diabetes mellitus,50-64,Male,Hispanic,13.200000000000001,6,10.32,Medium,CDC_WONDER_integrated
+diabetes mellitus,50-64,Male,Asian,13.200000000000001,6,10.32,Medium,CDC_WONDER_integrated
+diabetes mellitus,50-64,Male,Other,13.200000000000001,6,10.32,Medium,CDC_WONDER_integrated
+diabetes mellitus,50-64,Female,White,13.200000000000001,6,10.32,Medium,CDC_WONDER_integrated
+diabetes mellitus,50-64,Female,Black,13.200000000000001,6,10.32,Medium,CDC_WONDER_integrated
+diabetes mellitus,50-64,Female,Hispanic,13.200000000000001,6,10.32,Medium,CDC_WONDER_integrated
+diabetes mellitus,50-64,Female,Asian,13.200000000000001,6,10.32,Medium,CDC_WONDER_integrated
+diabetes mellitus,50-64,Female,Other,13.200000000000001,6,10.32,Medium,CDC_WONDER_integrated
+diabetes mellitus,65-74,Male,White,19.8,8,15.080000000000002,High,CDC_WONDER_integrated
+diabetes mellitus,65-74,Male,Black,19.8,8,15.080000000000002,High,CDC_WONDER_integrated
+diabetes mellitus,65-74,Male,Hispanic,19.8,8,15.080000000000002,High,CDC_WONDER_integrated
+diabetes mellitus,65-74,Male,Asian,19.8,8,15.080000000000002,High,CDC_WONDER_integrated
+diabetes mellitus,65-74,Male,Other,19.8,8,15.080000000000002,High,CDC_WONDER_integrated
+diabetes mellitus,65-74,Female,White,19.8,8,15.080000000000002,High,CDC_WONDER_integrated
+diabetes mellitus,65-74,Female,Black,19.8,8,15.080000000000002,High,CDC_WONDER_integrated
+diabetes mellitus,65-74,Female,Hispanic,19.8,8,15.080000000000002,High,CDC_WONDER_integrated
+diabetes mellitus,65-74,Female,Asian,19.8,8,15.080000000000002,High,CDC_WONDER_integrated
+diabetes mellitus,65-74,Female,Other,19.8,8,15.080000000000002,High,CDC_WONDER_integrated
+diabetes mellitus,75+,Male,White,27.500000000000004,10,20.5,High,CDC_WONDER_integrated
+diabetes mellitus,75+,Male,Black,27.500000000000004,10,20.5,High,CDC_WONDER_integrated
+diabetes mellitus,75+,Male,Hispanic,27.500000000000004,10,20.5,High,CDC_WONDER_integrated
+diabetes mellitus,75+,Male,Asian,27.500000000000004,10,20.5,High,CDC_WONDER_integrated
+diabetes mellitus,75+,Male,Other,27.500000000000004,10,20.5,High,CDC_WONDER_integrated
+diabetes mellitus,75+,Female,White,27.500000000000004,10,20.5,High,CDC_WONDER_integrated
+diabetes mellitus,75+,Female,Black,27.500000000000004,10,20.5,High,CDC_WONDER_integrated
+diabetes mellitus,75+,Female,Hispanic,27.500000000000004,10,20.5,High,CDC_WONDER_integrated
+diabetes mellitus,75+,Female,Asian,27.500000000000004,10,20.5,High,CDC_WONDER_integrated
+diabetes mellitus,75+,Female,Other,27.500000000000004,10,20.5,High,CDC_WONDER_integrated
+hypertension,0-17,Male,White,4.7,1,3.2199999999999998,Low,CDC_WONDER_integrated
+hypertension,0-17,Male,Black,4.7,1,3.2199999999999998,Low,CDC_WONDER_integrated
+hypertension,0-17,Male,Hispanic,4.7,1,3.2199999999999998,Low,CDC_WONDER_integrated
+hypertension,0-17,Male,Asian,4.7,1,3.2199999999999998,Low,CDC_WONDER_integrated
+hypertension,0-17,Male,Other,4.7,1,3.2199999999999998,Low,CDC_WONDER_integrated
+hypertension,0-17,Female,White,4.7,1,3.2199999999999998,Low,CDC_WONDER_integrated
+hypertension,0-17,Female,Black,4.7,1,3.2199999999999998,Low,CDC_WONDER_integrated
+hypertension,0-17,Female,Hispanic,4.7,1,3.2199999999999998,Low,CDC_WONDER_integrated
+hypertension,0-17,Female,Asian,4.7,1,3.2199999999999998,Low,CDC_WONDER_integrated
+hypertension,0-17,Female,Other,4.7,1,3.2199999999999998,Low,CDC_WONDER_integrated
+hypertension,18-34,Male,White,14.099999999999998,2,9.26,Medium,CDC_WONDER_integrated
+hypertension,18-34,Male,Black,14.099999999999998,2,9.26,Medium,CDC_WONDER_integrated
+hypertension,18-34,Male,Hispanic,14.099999999999998,2,9.26,Medium,CDC_WONDER_integrated
+hypertension,18-34,Male,Asian,14.099999999999998,2,9.26,Medium,CDC_WONDER_integrated
+hypertension,18-34,Male,Other,14.099999999999998,2,9.26,Medium,CDC_WONDER_integrated
+hypertension,18-34,Female,White,14.099999999999998,2,9.26,Medium,CDC_WONDER_integrated
+hypertension,18-34,Female,Black,14.099999999999998,2,9.26,Medium,CDC_WONDER_integrated
+hypertension,18-34,Female,Hispanic,14.099999999999998,2,9.26,Medium,CDC_WONDER_integrated
+hypertension,18-34,Female,Asian,14.099999999999998,2,9.26,Medium,CDC_WONDER_integrated
+hypertension,18-34,Female,Other,14.099999999999998,2,9.26,Medium,CDC_WONDER_integrated
+hypertension,35-49,Male,White,32.9,4,21.34,High,CDC_WONDER_integrated
+hypertension,35-49,Male,Black,32.9,4,21.34,High,CDC_WONDER_integrated
+hypertension,35-49,Male,Hispanic,32.9,4,21.34,High,CDC_WONDER_integrated
+hypertension,35-49,Male,Asian,32.9,4,21.34,High,CDC_WONDER_integrated
+hypertension,35-49,Male,Other,32.9,4,21.34,High,CDC_WONDER_integrated
+hypertension,35-49,Female,White,32.9,4,21.34,High,CDC_WONDER_integrated
+hypertension,35-49,Female,Black,32.9,4,21.34,High,CDC_WONDER_integrated
+hypertension,35-49,Female,Hispanic,32.9,4,21.34,High,CDC_WONDER_integrated
+hypertension,35-49,Female,Asian,32.9,4,21.34,High,CDC_WONDER_integrated
+hypertension,35-49,Female,Other,32.9,4,21.34,High,CDC_WONDER_integrated
+hypertension,50-64,Male,White,56.39999999999999,6,36.239999999999995,High,CDC_WONDER_integrated
+hypertension,50-64,Male,Black,56.39999999999999,6,36.239999999999995,High,CDC_WONDER_integrated
+hypertension,50-64,Male,Hispanic,56.39999999999999,6,36.239999999999995,High,CDC_WONDER_integrated
+hypertension,50-64,Male,Asian,56.39999999999999,6,36.239999999999995,High,CDC_WONDER_integrated
+hypertension,50-64,Male,Other,56.39999999999999,6,36.239999999999995,High,CDC_WONDER_integrated
+hypertension,50-64,Female,White,56.39999999999999,6,36.239999999999995,High,CDC_WONDER_integrated
+hypertension,50-64,Female,Black,56.39999999999999,6,36.239999999999995,High,CDC_WONDER_integrated
+hypertension,50-64,Female,Hispanic,56.39999999999999,6,36.239999999999995,High,CDC_WONDER_integrated
+hypertension,50-64,Female,Asian,56.39999999999999,6,36.239999999999995,High,CDC_WONDER_integrated
+hypertension,50-64,Female,Other,56.39999999999999,6,36.239999999999995,High,CDC_WONDER_integrated
+hypertension,65-74,Male,White,84.6,8,53.96,High,CDC_WONDER_integrated
+hypertension,65-74,Male,Black,84.6,8,53.96,High,CDC_WONDER_integrated
+hypertension,65-74,Male,Hispanic,84.6,8,53.96,High,CDC_WONDER_integrated
+hypertension,65-74,Male,Asian,84.6,8,53.96,High,CDC_WONDER_integrated
+hypertension,65-74,Male,Other,84.6,8,53.96,High,CDC_WONDER_integrated
+hypertension,65-74,Female,White,84.6,8,53.96,High,CDC_WONDER_integrated
+hypertension,65-74,Female,Black,84.6,8,53.96,High,CDC_WONDER_integrated
+hypertension,65-74,Female,Hispanic,84.6,8,53.96,High,CDC_WONDER_integrated
+hypertension,65-74,Female,Asian,84.6,8,53.96,High,CDC_WONDER_integrated
+hypertension,65-74,Female,Other,84.6,8,53.96,High,CDC_WONDER_integrated
+hypertension,75+,Male,White,95.0,10,61.0,High,CDC_WONDER_integrated
+hypertension,75+,Male,Black,95.0,10,61.0,High,CDC_WONDER_integrated
+hypertension,75+,Male,Hispanic,95.0,10,61.0,High,CDC_WONDER_integrated
+hypertension,75+,Male,Asian,95.0,10,61.0,High,CDC_WONDER_integrated
+hypertension,75+,Male,Other,95.0,10,61.0,High,CDC_WONDER_integrated
+hypertension,75+,Female,White,95.0,10,61.0,High,CDC_WONDER_integrated
+hypertension,75+,Female,Black,95.0,10,61.0,High,CDC_WONDER_integrated
+hypertension,75+,Female,Hispanic,95.0,10,61.0,High,CDC_WONDER_integrated
+hypertension,75+,Female,Asian,95.0,10,61.0,High,CDC_WONDER_integrated
+hypertension,75+,Female,Other,95.0,10,61.0,High,CDC_WONDER_integrated
+heart disease,0-17,Male,White,0.78,1,0.868,Low,CDC_WONDER_integrated
+heart disease,0-17,Male,Black,0.78,1,0.868,Low,CDC_WONDER_integrated
+heart disease,0-17,Male,Hispanic,0.78,1,0.868,Low,CDC_WONDER_integrated
+heart disease,0-17,Male,Asian,0.78,1,0.868,Low,CDC_WONDER_integrated
+heart disease,0-17,Male,Other,0.78,1,0.868,Low,CDC_WONDER_integrated
+heart disease,0-17,Female,White,0.6,1,0.76,Low,CDC_WONDER_integrated
+heart disease,0-17,Female,Black,0.6,1,0.76,Low,CDC_WONDER_integrated
+heart disease,0-17,Female,Hispanic,0.6,1,0.76,Low,CDC_WONDER_integrated
+heart disease,0-17,Female,Asian,0.6,1,0.76,Low,CDC_WONDER_integrated
+heart disease,0-17,Female,Other,0.6,1,0.76,Low,CDC_WONDER_integrated
+heart disease,18-34,Male,White,2.34,2,2.2039999999999997,Low,CDC_WONDER_integrated
+heart disease,18-34,Male,Black,2.34,2,2.2039999999999997,Low,CDC_WONDER_integrated
+heart disease,18-34,Male,Hispanic,2.34,2,2.2039999999999997,Low,CDC_WONDER_integrated
+heart disease,18-34,Male,Asian,2.34,2,2.2039999999999997,Low,CDC_WONDER_integrated
+heart disease,18-34,Male,Other,2.34,2,2.2039999999999997,Low,CDC_WONDER_integrated
+heart disease,18-34,Female,White,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+heart disease,18-34,Female,Black,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+heart disease,18-34,Female,Hispanic,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+heart disease,18-34,Female,Asian,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+heart disease,18-34,Female,Other,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+heart disease,35-49,Male,White,5.46,4,4.8759999999999994,Low,CDC_WONDER_integrated
+heart disease,35-49,Male,Black,5.46,4,4.8759999999999994,Low,CDC_WONDER_integrated
+heart disease,35-49,Male,Hispanic,5.46,4,4.8759999999999994,Low,CDC_WONDER_integrated
+heart disease,35-49,Male,Asian,5.46,4,4.8759999999999994,Low,CDC_WONDER_integrated
+heart disease,35-49,Male,Other,5.46,4,4.8759999999999994,Low,CDC_WONDER_integrated
+heart disease,35-49,Female,White,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+heart disease,35-49,Female,Black,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+heart disease,35-49,Female,Hispanic,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+heart disease,35-49,Female,Asian,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+heart disease,35-49,Female,Other,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+heart disease,50-64,Male,White,9.36,6,8.016,Medium,CDC_WONDER_integrated
+heart disease,50-64,Male,Black,9.36,6,8.016,Medium,CDC_WONDER_integrated
+heart disease,50-64,Male,Hispanic,9.36,6,8.016,Medium,CDC_WONDER_integrated
+heart disease,50-64,Male,Asian,9.36,6,8.016,Medium,CDC_WONDER_integrated
+heart disease,50-64,Male,Other,9.36,6,8.016,Medium,CDC_WONDER_integrated
+heart disease,50-64,Female,White,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+heart disease,50-64,Female,Black,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+heart disease,50-64,Female,Hispanic,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+heart disease,50-64,Female,Asian,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+heart disease,50-64,Female,Other,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+heart disease,65-74,Male,White,14.04,8,11.623999999999999,Medium,CDC_WONDER_integrated
+heart disease,65-74,Male,Black,14.04,8,11.623999999999999,Medium,CDC_WONDER_integrated
+heart disease,65-74,Male,Hispanic,14.04,8,11.623999999999999,Medium,CDC_WONDER_integrated
+heart disease,65-74,Male,Asian,14.04,8,11.623999999999999,Medium,CDC_WONDER_integrated
+heart disease,65-74,Male,Other,14.04,8,11.623999999999999,Medium,CDC_WONDER_integrated
+heart disease,65-74,Female,White,10.8,8,9.68,Medium,CDC_WONDER_integrated
+heart disease,65-74,Female,Black,10.8,8,9.68,Medium,CDC_WONDER_integrated
+heart disease,65-74,Female,Hispanic,10.8,8,9.68,Medium,CDC_WONDER_integrated
+heart disease,65-74,Female,Asian,10.8,8,9.68,Medium,CDC_WONDER_integrated
+heart disease,65-74,Female,Other,10.8,8,9.68,Medium,CDC_WONDER_integrated
+heart disease,75+,Male,White,19.5,10,15.7,High,CDC_WONDER_integrated
+heart disease,75+,Male,Black,19.5,10,15.7,High,CDC_WONDER_integrated
+heart disease,75+,Male,Hispanic,19.5,10,15.7,High,CDC_WONDER_integrated
+heart disease,75+,Male,Asian,19.5,10,15.7,High,CDC_WONDER_integrated
+heart disease,75+,Male,Other,19.5,10,15.7,High,CDC_WONDER_integrated
+heart disease,75+,Female,White,15.0,10,13.0,Medium,CDC_WONDER_integrated
+heart disease,75+,Female,Black,15.0,10,13.0,Medium,CDC_WONDER_integrated
+heart disease,75+,Female,Hispanic,15.0,10,13.0,Medium,CDC_WONDER_integrated
+heart disease,75+,Female,Asian,15.0,10,13.0,Medium,CDC_WONDER_integrated
+heart disease,75+,Female,Other,15.0,10,13.0,Medium,CDC_WONDER_integrated
+stroke,0-17,Male,White,0.39,1,0.634,Low,CDC_WONDER_integrated
+stroke,0-17,Male,Black,0.39,1,0.634,Low,CDC_WONDER_integrated
+stroke,0-17,Male,Hispanic,0.39,1,0.634,Low,CDC_WONDER_integrated
+stroke,0-17,Male,Asian,0.39,1,0.634,Low,CDC_WONDER_integrated
+stroke,0-17,Male,Other,0.39,1,0.634,Low,CDC_WONDER_integrated
+stroke,0-17,Female,White,0.3,1,0.5800000000000001,Low,CDC_WONDER_integrated
+stroke,0-17,Female,Black,0.3,1,0.5800000000000001,Low,CDC_WONDER_integrated
+stroke,0-17,Female,Hispanic,0.3,1,0.5800000000000001,Low,CDC_WONDER_integrated
+stroke,0-17,Female,Asian,0.3,1,0.5800000000000001,Low,CDC_WONDER_integrated
+stroke,0-17,Female,Other,0.3,1,0.5800000000000001,Low,CDC_WONDER_integrated
+stroke,18-34,Male,White,1.17,2,1.502,Low,CDC_WONDER_integrated
+stroke,18-34,Male,Black,1.17,2,1.502,Low,CDC_WONDER_integrated
+stroke,18-34,Male,Hispanic,1.17,2,1.502,Low,CDC_WONDER_integrated
+stroke,18-34,Male,Asian,1.17,2,1.502,Low,CDC_WONDER_integrated
+stroke,18-34,Male,Other,1.17,2,1.502,Low,CDC_WONDER_integrated
+stroke,18-34,Female,White,0.8999999999999999,2,1.3399999999999999,Low,CDC_WONDER_integrated
+stroke,18-34,Female,Black,0.8999999999999999,2,1.3399999999999999,Low,CDC_WONDER_integrated
+stroke,18-34,Female,Hispanic,0.8999999999999999,2,1.3399999999999999,Low,CDC_WONDER_integrated
+stroke,18-34,Female,Asian,0.8999999999999999,2,1.3399999999999999,Low,CDC_WONDER_integrated
+stroke,18-34,Female,Other,0.8999999999999999,2,1.3399999999999999,Low,CDC_WONDER_integrated
+stroke,35-49,Male,White,2.73,4,3.238,Low,CDC_WONDER_integrated
+stroke,35-49,Male,Black,2.73,4,3.238,Low,CDC_WONDER_integrated
+stroke,35-49,Male,Hispanic,2.73,4,3.238,Low,CDC_WONDER_integrated
+stroke,35-49,Male,Asian,2.73,4,3.238,Low,CDC_WONDER_integrated
+stroke,35-49,Male,Other,2.73,4,3.238,Low,CDC_WONDER_integrated
+stroke,35-49,Female,White,2.0999999999999996,4,2.86,Low,CDC_WONDER_integrated
+stroke,35-49,Female,Black,2.0999999999999996,4,2.86,Low,CDC_WONDER_integrated
+stroke,35-49,Female,Hispanic,2.0999999999999996,4,2.86,Low,CDC_WONDER_integrated
+stroke,35-49,Female,Asian,2.0999999999999996,4,2.86,Low,CDC_WONDER_integrated
+stroke,35-49,Female,Other,2.0999999999999996,4,2.86,Low,CDC_WONDER_integrated
+stroke,50-64,Male,White,4.68,6,5.208,Medium,CDC_WONDER_integrated
+stroke,50-64,Male,Black,4.68,6,5.208,Medium,CDC_WONDER_integrated
+stroke,50-64,Male,Hispanic,4.68,6,5.208,Medium,CDC_WONDER_integrated
+stroke,50-64,Male,Asian,4.68,6,5.208,Medium,CDC_WONDER_integrated
+stroke,50-64,Male,Other,4.68,6,5.208,Medium,CDC_WONDER_integrated
+stroke,50-64,Female,White,3.5999999999999996,6,4.5600000000000005,Low,CDC_WONDER_integrated
+stroke,50-64,Female,Black,3.5999999999999996,6,4.5600000000000005,Low,CDC_WONDER_integrated
+stroke,50-64,Female,Hispanic,3.5999999999999996,6,4.5600000000000005,Low,CDC_WONDER_integrated
+stroke,50-64,Female,Asian,3.5999999999999996,6,4.5600000000000005,Low,CDC_WONDER_integrated
+stroke,50-64,Female,Other,3.5999999999999996,6,4.5600000000000005,Low,CDC_WONDER_integrated
+stroke,65-74,Male,White,7.02,8,7.412,Medium,CDC_WONDER_integrated
+stroke,65-74,Male,Black,7.02,8,7.412,Medium,CDC_WONDER_integrated
+stroke,65-74,Male,Hispanic,7.02,8,7.412,Medium,CDC_WONDER_integrated
+stroke,65-74,Male,Asian,7.02,8,7.412,Medium,CDC_WONDER_integrated
+stroke,65-74,Male,Other,7.02,8,7.412,Medium,CDC_WONDER_integrated
+stroke,65-74,Female,White,5.4,8,6.44,Medium,CDC_WONDER_integrated
+stroke,65-74,Female,Black,5.4,8,6.44,Medium,CDC_WONDER_integrated
+stroke,65-74,Female,Hispanic,5.4,8,6.44,Medium,CDC_WONDER_integrated
+stroke,65-74,Female,Asian,5.4,8,6.44,Medium,CDC_WONDER_integrated
+stroke,65-74,Female,Other,5.4,8,6.44,Medium,CDC_WONDER_integrated
+stroke,75+,Male,White,9.75,10,9.85,Medium,CDC_WONDER_integrated
+stroke,75+,Male,Black,9.75,10,9.85,Medium,CDC_WONDER_integrated
+stroke,75+,Male,Hispanic,9.75,10,9.85,Medium,CDC_WONDER_integrated
+stroke,75+,Male,Asian,9.75,10,9.85,Medium,CDC_WONDER_integrated
+stroke,75+,Male,Other,9.75,10,9.85,Medium,CDC_WONDER_integrated
+stroke,75+,Female,White,7.5,10,8.5,Medium,CDC_WONDER_integrated
+stroke,75+,Female,Black,7.5,10,8.5,Medium,CDC_WONDER_integrated
+stroke,75+,Female,Hispanic,7.5,10,8.5,Medium,CDC_WONDER_integrated
+stroke,75+,Female,Asian,7.5,10,8.5,Medium,CDC_WONDER_integrated
+stroke,75+,Female,Other,7.5,10,8.5,Medium,CDC_WONDER_integrated
+cancer,0-17,Male,White,0.5000000000000001,1,0.7000000000000001,Low,CDC_WONDER_integrated
+cancer,0-17,Male,Black,0.5000000000000001,1,0.7000000000000001,Low,CDC_WONDER_integrated
+cancer,0-17,Male,Hispanic,0.5000000000000001,1,0.7000000000000001,Low,CDC_WONDER_integrated
+cancer,0-17,Male,Asian,0.5000000000000001,1,0.7000000000000001,Low,CDC_WONDER_integrated
+cancer,0-17,Male,Other,0.5000000000000001,1,0.7000000000000001,Low,CDC_WONDER_integrated
+cancer,0-17,Female,White,0.5000000000000001,1,0.7000000000000001,Low,CDC_WONDER_integrated
+cancer,0-17,Female,Black,0.5000000000000001,1,0.7000000000000001,Low,CDC_WONDER_integrated
+cancer,0-17,Female,Hispanic,0.5000000000000001,1,0.7000000000000001,Low,CDC_WONDER_integrated
+cancer,0-17,Female,Asian,0.5000000000000001,1,0.7000000000000001,Low,CDC_WONDER_integrated
+cancer,0-17,Female,Other,0.5000000000000001,1,0.7000000000000001,Low,CDC_WONDER_integrated
+cancer,18-34,Male,White,1.5,2,1.7,Low,CDC_WONDER_integrated
+cancer,18-34,Male,Black,1.5,2,1.7,Low,CDC_WONDER_integrated
+cancer,18-34,Male,Hispanic,1.5,2,1.7,Low,CDC_WONDER_integrated
+cancer,18-34,Male,Asian,1.5,2,1.7,Low,CDC_WONDER_integrated
+cancer,18-34,Male,Other,1.5,2,1.7,Low,CDC_WONDER_integrated
+cancer,18-34,Female,White,1.5,2,1.7,Low,CDC_WONDER_integrated
+cancer,18-34,Female,Black,1.5,2,1.7,Low,CDC_WONDER_integrated
+cancer,18-34,Female,Hispanic,1.5,2,1.7,Low,CDC_WONDER_integrated
+cancer,18-34,Female,Asian,1.5,2,1.7,Low,CDC_WONDER_integrated
+cancer,18-34,Female,Other,1.5,2,1.7,Low,CDC_WONDER_integrated
+cancer,35-49,Male,White,3.4999999999999996,4,3.6999999999999997,Low,CDC_WONDER_integrated
+cancer,35-49,Male,Black,3.4999999999999996,4,3.6999999999999997,Low,CDC_WONDER_integrated
+cancer,35-49,Male,Hispanic,3.4999999999999996,4,3.6999999999999997,Low,CDC_WONDER_integrated
+cancer,35-49,Male,Asian,3.4999999999999996,4,3.6999999999999997,Low,CDC_WONDER_integrated
+cancer,35-49,Male,Other,3.4999999999999996,4,3.6999999999999997,Low,CDC_WONDER_integrated
+cancer,35-49,Female,White,3.4999999999999996,4,3.6999999999999997,Low,CDC_WONDER_integrated
+cancer,35-49,Female,Black,3.4999999999999996,4,3.6999999999999997,Low,CDC_WONDER_integrated
+cancer,35-49,Female,Hispanic,3.4999999999999996,4,3.6999999999999997,Low,CDC_WONDER_integrated
+cancer,35-49,Female,Asian,3.4999999999999996,4,3.6999999999999997,Low,CDC_WONDER_integrated
+cancer,35-49,Female,Other,3.4999999999999996,4,3.6999999999999997,Low,CDC_WONDER_integrated
+cancer,50-64,Male,White,6.0,6,6.0,Medium,CDC_WONDER_integrated
+cancer,50-64,Male,Black,6.0,6,6.0,Medium,CDC_WONDER_integrated
+cancer,50-64,Male,Hispanic,6.0,6,6.0,Medium,CDC_WONDER_integrated
+cancer,50-64,Male,Asian,6.0,6,6.0,Medium,CDC_WONDER_integrated
+cancer,50-64,Male,Other,6.0,6,6.0,Medium,CDC_WONDER_integrated
+cancer,50-64,Female,White,6.0,6,6.0,Medium,CDC_WONDER_integrated
+cancer,50-64,Female,Black,6.0,6,6.0,Medium,CDC_WONDER_integrated
+cancer,50-64,Female,Hispanic,6.0,6,6.0,Medium,CDC_WONDER_integrated
+cancer,50-64,Female,Asian,6.0,6,6.0,Medium,CDC_WONDER_integrated
+cancer,50-64,Female,Other,6.0,6,6.0,Medium,CDC_WONDER_integrated
+cancer,65-74,Male,White,9.000000000000002,8,8.600000000000001,Medium,CDC_WONDER_integrated
+cancer,65-74,Male,Black,9.000000000000002,8,8.600000000000001,Medium,CDC_WONDER_integrated
+cancer,65-74,Male,Hispanic,9.000000000000002,8,8.600000000000001,Medium,CDC_WONDER_integrated
+cancer,65-74,Male,Asian,9.000000000000002,8,8.600000000000001,Medium,CDC_WONDER_integrated
+cancer,65-74,Male,Other,9.000000000000002,8,8.600000000000001,Medium,CDC_WONDER_integrated
+cancer,65-74,Female,White,9.000000000000002,8,8.600000000000001,Medium,CDC_WONDER_integrated
+cancer,65-74,Female,Black,9.000000000000002,8,8.600000000000001,Medium,CDC_WONDER_integrated
+cancer,65-74,Female,Hispanic,9.000000000000002,8,8.600000000000001,Medium,CDC_WONDER_integrated
+cancer,65-74,Female,Asian,9.000000000000002,8,8.600000000000001,Medium,CDC_WONDER_integrated
+cancer,65-74,Female,Other,9.000000000000002,8,8.600000000000001,Medium,CDC_WONDER_integrated
+cancer,75+,Male,White,12.5,10,11.5,Medium,CDC_WONDER_integrated
+cancer,75+,Male,Black,12.5,10,11.5,Medium,CDC_WONDER_integrated
+cancer,75+,Male,Hispanic,12.5,10,11.5,Medium,CDC_WONDER_integrated
+cancer,75+,Male,Asian,12.5,10,11.5,Medium,CDC_WONDER_integrated
+cancer,75+,Male,Other,12.5,10,11.5,Medium,CDC_WONDER_integrated
+cancer,75+,Female,White,12.5,10,11.5,Medium,CDC_WONDER_integrated
+cancer,75+,Female,Black,12.5,10,11.5,Medium,CDC_WONDER_integrated
+cancer,75+,Female,Hispanic,12.5,10,11.5,Medium,CDC_WONDER_integrated
+cancer,75+,Female,Asian,12.5,10,11.5,Medium,CDC_WONDER_integrated
+cancer,75+,Female,Other,12.5,10,11.5,Medium,CDC_WONDER_integrated
+kidney disease,0-17,Male,White,1.5,1,1.2999999999999998,Low,CDC_WONDER_integrated
+kidney disease,0-17,Male,Black,1.5,1,1.2999999999999998,Low,CDC_WONDER_integrated
+kidney disease,0-17,Male,Hispanic,1.5,1,1.2999999999999998,Low,CDC_WONDER_integrated
+kidney disease,0-17,Male,Asian,1.5,1,1.2999999999999998,Low,CDC_WONDER_integrated
+kidney disease,0-17,Male,Other,1.5,1,1.2999999999999998,Low,CDC_WONDER_integrated
+kidney disease,0-17,Female,White,1.5,1,1.2999999999999998,Low,CDC_WONDER_integrated
+kidney disease,0-17,Female,Black,1.5,1,1.2999999999999998,Low,CDC_WONDER_integrated
+kidney disease,0-17,Female,Hispanic,1.5,1,1.2999999999999998,Low,CDC_WONDER_integrated
+kidney disease,0-17,Female,Asian,1.5,1,1.2999999999999998,Low,CDC_WONDER_integrated
+kidney disease,0-17,Female,Other,1.5,1,1.2999999999999998,Low,CDC_WONDER_integrated
+kidney disease,18-34,Male,White,4.5,2,3.5,Low,CDC_WONDER_integrated
+kidney disease,18-34,Male,Black,4.5,2,3.5,Low,CDC_WONDER_integrated
+kidney disease,18-34,Male,Hispanic,4.5,2,3.5,Low,CDC_WONDER_integrated
+kidney disease,18-34,Male,Asian,4.5,2,3.5,Low,CDC_WONDER_integrated
+kidney disease,18-34,Male,Other,4.5,2,3.5,Low,CDC_WONDER_integrated
+kidney disease,18-34,Female,White,4.5,2,3.5,Low,CDC_WONDER_integrated
+kidney disease,18-34,Female,Black,4.5,2,3.5,Low,CDC_WONDER_integrated
+kidney disease,18-34,Female,Hispanic,4.5,2,3.5,Low,CDC_WONDER_integrated
+kidney disease,18-34,Female,Asian,4.5,2,3.5,Low,CDC_WONDER_integrated
+kidney disease,18-34,Female,Other,4.5,2,3.5,Low,CDC_WONDER_integrated
+kidney disease,35-49,Male,White,10.5,4,7.9,Medium,CDC_WONDER_integrated
+kidney disease,35-49,Male,Black,10.5,4,7.9,Medium,CDC_WONDER_integrated
+kidney disease,35-49,Male,Hispanic,10.5,4,7.9,Medium,CDC_WONDER_integrated
+kidney disease,35-49,Male,Asian,10.5,4,7.9,Medium,CDC_WONDER_integrated
+kidney disease,35-49,Male,Other,10.5,4,7.9,Medium,CDC_WONDER_integrated
+kidney disease,35-49,Female,White,10.5,4,7.9,Medium,CDC_WONDER_integrated
+kidney disease,35-49,Female,Black,10.5,4,7.9,Medium,CDC_WONDER_integrated
+kidney disease,35-49,Female,Hispanic,10.5,4,7.9,Medium,CDC_WONDER_integrated
+kidney disease,35-49,Female,Asian,10.5,4,7.9,Medium,CDC_WONDER_integrated
+kidney disease,35-49,Female,Other,10.5,4,7.9,Medium,CDC_WONDER_integrated
+kidney disease,50-64,Male,White,18.0,6,13.2,Medium,CDC_WONDER_integrated
+kidney disease,50-64,Male,Black,18.0,6,13.2,Medium,CDC_WONDER_integrated
+kidney disease,50-64,Male,Hispanic,18.0,6,13.2,Medium,CDC_WONDER_integrated
+kidney disease,50-64,Male,Asian,18.0,6,13.2,Medium,CDC_WONDER_integrated
+kidney disease,50-64,Male,Other,18.0,6,13.2,Medium,CDC_WONDER_integrated
+kidney disease,50-64,Female,White,18.0,6,13.2,Medium,CDC_WONDER_integrated
+kidney disease,50-64,Female,Black,18.0,6,13.2,Medium,CDC_WONDER_integrated
+kidney disease,50-64,Female,Hispanic,18.0,6,13.2,Medium,CDC_WONDER_integrated
+kidney disease,50-64,Female,Asian,18.0,6,13.2,Medium,CDC_WONDER_integrated
+kidney disease,50-64,Female,Other,18.0,6,13.2,Medium,CDC_WONDER_integrated
+kidney disease,65-74,Male,White,27.0,8,19.4,High,CDC_WONDER_integrated
+kidney disease,65-74,Male,Black,27.0,8,19.4,High,CDC_WONDER_integrated
+kidney disease,65-74,Male,Hispanic,27.0,8,19.4,High,CDC_WONDER_integrated
+kidney disease,65-74,Male,Asian,27.0,8,19.4,High,CDC_WONDER_integrated
+kidney disease,65-74,Male,Other,27.0,8,19.4,High,CDC_WONDER_integrated
+kidney disease,65-74,Female,White,27.0,8,19.4,High,CDC_WONDER_integrated
+kidney disease,65-74,Female,Black,27.0,8,19.4,High,CDC_WONDER_integrated
+kidney disease,65-74,Female,Hispanic,27.0,8,19.4,High,CDC_WONDER_integrated
+kidney disease,65-74,Female,Asian,27.0,8,19.4,High,CDC_WONDER_integrated
+kidney disease,65-74,Female,Other,27.0,8,19.4,High,CDC_WONDER_integrated
+kidney disease,75+,Male,White,37.5,10,26.5,High,CDC_WONDER_integrated
+kidney disease,75+,Male,Black,37.5,10,26.5,High,CDC_WONDER_integrated
+kidney disease,75+,Male,Hispanic,37.5,10,26.5,High,CDC_WONDER_integrated
+kidney disease,75+,Male,Asian,37.5,10,26.5,High,CDC_WONDER_integrated
+kidney disease,75+,Male,Other,37.5,10,26.5,High,CDC_WONDER_integrated
+kidney disease,75+,Female,White,37.5,10,26.5,High,CDC_WONDER_integrated
+kidney disease,75+,Female,Black,37.5,10,26.5,High,CDC_WONDER_integrated
+kidney disease,75+,Female,Hispanic,37.5,10,26.5,High,CDC_WONDER_integrated
+kidney disease,75+,Female,Asian,37.5,10,26.5,High,CDC_WONDER_integrated
+kidney disease,75+,Female,Other,37.5,10,26.5,High,CDC_WONDER_integrated
+liver disease,0-17,Male,White,0.4,1,0.64,Low,CDC_WONDER_integrated
+liver disease,0-17,Male,Black,0.4,1,0.64,Low,CDC_WONDER_integrated
+liver disease,0-17,Male,Hispanic,0.4,1,0.64,Low,CDC_WONDER_integrated
+liver disease,0-17,Male,Asian,0.4,1,0.64,Low,CDC_WONDER_integrated
+liver disease,0-17,Male,Other,0.4,1,0.64,Low,CDC_WONDER_integrated
+liver disease,0-17,Female,White,0.48,1,0.688,Low,CDC_WONDER_integrated
+liver disease,0-17,Female,Black,0.48,1,0.688,Low,CDC_WONDER_integrated
+liver disease,0-17,Female,Hispanic,0.48,1,0.688,Low,CDC_WONDER_integrated
+liver disease,0-17,Female,Asian,0.48,1,0.688,Low,CDC_WONDER_integrated
+liver disease,0-17,Female,Other,0.48,1,0.688,Low,CDC_WONDER_integrated
+liver disease,18-34,Male,White,1.2,2,1.52,Low,CDC_WONDER_integrated
+liver disease,18-34,Male,Black,1.2,2,1.52,Low,CDC_WONDER_integrated
+liver disease,18-34,Male,Hispanic,1.2,2,1.52,Low,CDC_WONDER_integrated
+liver disease,18-34,Male,Asian,1.2,2,1.52,Low,CDC_WONDER_integrated
+liver disease,18-34,Male,Other,1.2,2,1.52,Low,CDC_WONDER_integrated
+liver disease,18-34,Female,White,1.44,2,1.6640000000000001,Low,CDC_WONDER_integrated
+liver disease,18-34,Female,Black,1.44,2,1.6640000000000001,Low,CDC_WONDER_integrated
+liver disease,18-34,Female,Hispanic,1.44,2,1.6640000000000001,Low,CDC_WONDER_integrated
+liver disease,18-34,Female,Asian,1.44,2,1.6640000000000001,Low,CDC_WONDER_integrated
+liver disease,18-34,Female,Other,1.44,2,1.6640000000000001,Low,CDC_WONDER_integrated
+liver disease,35-49,Male,White,2.8,4,3.2800000000000002,Low,CDC_WONDER_integrated
+liver disease,35-49,Male,Black,2.8,4,3.2800000000000002,Low,CDC_WONDER_integrated
+liver disease,35-49,Male,Hispanic,2.8,4,3.2800000000000002,Low,CDC_WONDER_integrated
+liver disease,35-49,Male,Asian,2.8,4,3.2800000000000002,Low,CDC_WONDER_integrated
+liver disease,35-49,Male,Other,2.8,4,3.2800000000000002,Low,CDC_WONDER_integrated
+liver disease,35-49,Female,White,3.36,4,3.616,Low,CDC_WONDER_integrated
+liver disease,35-49,Female,Black,3.36,4,3.616,Low,CDC_WONDER_integrated
+liver disease,35-49,Female,Hispanic,3.36,4,3.616,Low,CDC_WONDER_integrated
+liver disease,35-49,Female,Asian,3.36,4,3.616,Low,CDC_WONDER_integrated
+liver disease,35-49,Female,Other,3.36,4,3.616,Low,CDC_WONDER_integrated
+liver disease,50-64,Male,White,4.8,6,5.28,Medium,CDC_WONDER_integrated
+liver disease,50-64,Male,Black,4.8,6,5.28,Medium,CDC_WONDER_integrated
+liver disease,50-64,Male,Hispanic,4.8,6,5.28,Medium,CDC_WONDER_integrated
+liver disease,50-64,Male,Asian,4.8,6,5.28,Medium,CDC_WONDER_integrated
+liver disease,50-64,Male,Other,4.8,6,5.28,Medium,CDC_WONDER_integrated
+liver disease,50-64,Female,White,5.76,6,5.856,Medium,CDC_WONDER_integrated
+liver disease,50-64,Female,Black,5.76,6,5.856,Medium,CDC_WONDER_integrated
+liver disease,50-64,Female,Hispanic,5.76,6,5.856,Medium,CDC_WONDER_integrated
+liver disease,50-64,Female,Asian,5.76,6,5.856,Medium,CDC_WONDER_integrated
+liver disease,50-64,Female,Other,5.76,6,5.856,Medium,CDC_WONDER_integrated
+liver disease,65-74,Male,White,7.200000000000001,8,7.5200000000000005,Medium,CDC_WONDER_integrated
+liver disease,65-74,Male,Black,7.200000000000001,8,7.5200000000000005,Medium,CDC_WONDER_integrated
+liver disease,65-74,Male,Hispanic,7.200000000000001,8,7.5200000000000005,Medium,CDC_WONDER_integrated
+liver disease,65-74,Male,Asian,7.200000000000001,8,7.5200000000000005,Medium,CDC_WONDER_integrated
+liver disease,65-74,Male,Other,7.200000000000001,8,7.5200000000000005,Medium,CDC_WONDER_integrated
+liver disease,65-74,Female,White,8.64,8,8.384,Medium,CDC_WONDER_integrated
+liver disease,65-74,Female,Black,8.64,8,8.384,Medium,CDC_WONDER_integrated
+liver disease,65-74,Female,Hispanic,8.64,8,8.384,Medium,CDC_WONDER_integrated
+liver disease,65-74,Female,Asian,8.64,8,8.384,Medium,CDC_WONDER_integrated
+liver disease,65-74,Female,Other,8.64,8,8.384,Medium,CDC_WONDER_integrated
+liver disease,75+,Male,White,10.0,10,10.0,Medium,CDC_WONDER_integrated
+liver disease,75+,Male,Black,10.0,10,10.0,Medium,CDC_WONDER_integrated
+liver disease,75+,Male,Hispanic,10.0,10,10.0,Medium,CDC_WONDER_integrated
+liver disease,75+,Male,Asian,10.0,10,10.0,Medium,CDC_WONDER_integrated
+liver disease,75+,Male,Other,10.0,10,10.0,Medium,CDC_WONDER_integrated
+liver disease,75+,Female,White,12.0,10,11.2,Medium,CDC_WONDER_integrated
+liver disease,75+,Female,Black,12.0,10,11.2,Medium,CDC_WONDER_integrated
+liver disease,75+,Female,Hispanic,12.0,10,11.2,Medium,CDC_WONDER_integrated
+liver disease,75+,Female,Asian,12.0,10,11.2,Medium,CDC_WONDER_integrated
+liver disease,75+,Female,Other,12.0,10,11.2,Medium,CDC_WONDER_integrated
+asthma,0-17,Male,White,0.8,1,0.88,Low,CDC_WONDER_integrated
+asthma,0-17,Male,Black,0.8,1,0.88,Low,CDC_WONDER_integrated
+asthma,0-17,Male,Hispanic,0.8,1,0.88,Low,CDC_WONDER_integrated
+asthma,0-17,Male,Asian,0.8,1,0.88,Low,CDC_WONDER_integrated
+asthma,0-17,Male,Other,0.8,1,0.88,Low,CDC_WONDER_integrated
+asthma,0-17,Female,White,0.96,1,0.976,Low,CDC_WONDER_integrated
+asthma,0-17,Female,Black,0.96,1,0.976,Low,CDC_WONDER_integrated
+asthma,0-17,Female,Hispanic,0.96,1,0.976,Low,CDC_WONDER_integrated
+asthma,0-17,Female,Asian,0.96,1,0.976,Low,CDC_WONDER_integrated
+asthma,0-17,Female,Other,0.96,1,0.976,Low,CDC_WONDER_integrated
+asthma,18-34,Male,White,2.4,2,2.24,Low,CDC_WONDER_integrated
+asthma,18-34,Male,Black,2.4,2,2.24,Low,CDC_WONDER_integrated
+asthma,18-34,Male,Hispanic,2.4,2,2.24,Low,CDC_WONDER_integrated
+asthma,18-34,Male,Asian,2.4,2,2.24,Low,CDC_WONDER_integrated
+asthma,18-34,Male,Other,2.4,2,2.24,Low,CDC_WONDER_integrated
+asthma,18-34,Female,White,2.88,2,2.528,Low,CDC_WONDER_integrated
+asthma,18-34,Female,Black,2.88,2,2.528,Low,CDC_WONDER_integrated
+asthma,18-34,Female,Hispanic,2.88,2,2.528,Low,CDC_WONDER_integrated
+asthma,18-34,Female,Asian,2.88,2,2.528,Low,CDC_WONDER_integrated
+asthma,18-34,Female,Other,2.88,2,2.528,Low,CDC_WONDER_integrated
+asthma,35-49,Male,White,5.6,4,4.96,Low,CDC_WONDER_integrated
+asthma,35-49,Male,Black,5.6,4,4.96,Low,CDC_WONDER_integrated
+asthma,35-49,Male,Hispanic,5.6,4,4.96,Low,CDC_WONDER_integrated
+asthma,35-49,Male,Asian,5.6,4,4.96,Low,CDC_WONDER_integrated
+asthma,35-49,Male,Other,5.6,4,4.96,Low,CDC_WONDER_integrated
+asthma,35-49,Female,White,6.72,4,5.632,Medium,CDC_WONDER_integrated
+asthma,35-49,Female,Black,6.72,4,5.632,Medium,CDC_WONDER_integrated
+asthma,35-49,Female,Hispanic,6.72,4,5.632,Medium,CDC_WONDER_integrated
+asthma,35-49,Female,Asian,6.72,4,5.632,Medium,CDC_WONDER_integrated
+asthma,35-49,Female,Other,6.72,4,5.632,Medium,CDC_WONDER_integrated
+asthma,50-64,Male,White,9.6,6,8.16,Medium,CDC_WONDER_integrated
+asthma,50-64,Male,Black,9.6,6,8.16,Medium,CDC_WONDER_integrated
+asthma,50-64,Male,Hispanic,9.6,6,8.16,Medium,CDC_WONDER_integrated
+asthma,50-64,Male,Asian,9.6,6,8.16,Medium,CDC_WONDER_integrated
+asthma,50-64,Male,Other,9.6,6,8.16,Medium,CDC_WONDER_integrated
+asthma,50-64,Female,White,11.52,6,9.312000000000001,Medium,CDC_WONDER_integrated
+asthma,50-64,Female,Black,11.52,6,9.312000000000001,Medium,CDC_WONDER_integrated
+asthma,50-64,Female,Hispanic,11.52,6,9.312000000000001,Medium,CDC_WONDER_integrated
+asthma,50-64,Female,Asian,11.52,6,9.312000000000001,Medium,CDC_WONDER_integrated
+asthma,50-64,Female,Other,11.52,6,9.312000000000001,Medium,CDC_WONDER_integrated
+asthma,65-74,Male,White,14.400000000000002,8,11.84,Medium,CDC_WONDER_integrated
+asthma,65-74,Male,Black,14.400000000000002,8,11.84,Medium,CDC_WONDER_integrated
+asthma,65-74,Male,Hispanic,14.400000000000002,8,11.84,Medium,CDC_WONDER_integrated
+asthma,65-74,Male,Asian,14.400000000000002,8,11.84,Medium,CDC_WONDER_integrated
+asthma,65-74,Male,Other,14.400000000000002,8,11.84,Medium,CDC_WONDER_integrated
+asthma,65-74,Female,White,17.28,8,13.568000000000001,Medium,CDC_WONDER_integrated
+asthma,65-74,Female,Black,17.28,8,13.568000000000001,Medium,CDC_WONDER_integrated
+asthma,65-74,Female,Hispanic,17.28,8,13.568000000000001,Medium,CDC_WONDER_integrated
+asthma,65-74,Female,Asian,17.28,8,13.568000000000001,Medium,CDC_WONDER_integrated
+asthma,65-74,Female,Other,17.28,8,13.568000000000001,Medium,CDC_WONDER_integrated
+asthma,75+,Male,White,20.0,10,16.0,High,CDC_WONDER_integrated
+asthma,75+,Male,Black,20.0,10,16.0,High,CDC_WONDER_integrated
+asthma,75+,Male,Hispanic,20.0,10,16.0,High,CDC_WONDER_integrated
+asthma,75+,Male,Asian,20.0,10,16.0,High,CDC_WONDER_integrated
+asthma,75+,Male,Other,20.0,10,16.0,High,CDC_WONDER_integrated
+asthma,75+,Female,White,24.0,10,18.4,High,CDC_WONDER_integrated
+asthma,75+,Female,Black,24.0,10,18.4,High,CDC_WONDER_integrated
+asthma,75+,Female,Hispanic,24.0,10,18.4,High,CDC_WONDER_integrated
+asthma,75+,Female,Asian,24.0,10,18.4,High,CDC_WONDER_integrated
+asthma,75+,Female,Other,24.0,10,18.4,High,CDC_WONDER_integrated
+copd,0-17,Male,White,0.6,1,0.76,Low,CDC_WONDER_integrated
+copd,0-17,Male,Black,0.6,1,0.76,Low,CDC_WONDER_integrated
+copd,0-17,Male,Hispanic,0.6,1,0.76,Low,CDC_WONDER_integrated
+copd,0-17,Male,Asian,0.6,1,0.76,Low,CDC_WONDER_integrated
+copd,0-17,Male,Other,0.6,1,0.76,Low,CDC_WONDER_integrated
+copd,0-17,Female,White,0.6,1,0.76,Low,CDC_WONDER_integrated
+copd,0-17,Female,Black,0.6,1,0.76,Low,CDC_WONDER_integrated
+copd,0-17,Female,Hispanic,0.6,1,0.76,Low,CDC_WONDER_integrated
+copd,0-17,Female,Asian,0.6,1,0.76,Low,CDC_WONDER_integrated
+copd,0-17,Female,Other,0.6,1,0.76,Low,CDC_WONDER_integrated
+copd,18-34,Male,White,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+copd,18-34,Male,Black,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+copd,18-34,Male,Hispanic,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+copd,18-34,Male,Asian,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+copd,18-34,Male,Other,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+copd,18-34,Female,White,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+copd,18-34,Female,Black,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+copd,18-34,Female,Hispanic,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+copd,18-34,Female,Asian,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+copd,18-34,Female,Other,1.7999999999999998,2,1.88,Low,CDC_WONDER_integrated
+copd,35-49,Male,White,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+copd,35-49,Male,Black,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+copd,35-49,Male,Hispanic,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+copd,35-49,Male,Asian,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+copd,35-49,Male,Other,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+copd,35-49,Female,White,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+copd,35-49,Female,Black,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+copd,35-49,Female,Hispanic,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+copd,35-49,Female,Asian,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+copd,35-49,Female,Other,4.199999999999999,4,4.119999999999999,Low,CDC_WONDER_integrated
+copd,50-64,Male,White,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+copd,50-64,Male,Black,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+copd,50-64,Male,Hispanic,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+copd,50-64,Male,Asian,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+copd,50-64,Male,Other,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+copd,50-64,Female,White,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+copd,50-64,Female,Black,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+copd,50-64,Female,Hispanic,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+copd,50-64,Female,Asian,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+copd,50-64,Female,Other,7.199999999999999,6,6.72,Medium,CDC_WONDER_integrated
+copd,65-74,Male,White,10.8,8,9.68,Medium,CDC_WONDER_integrated
+copd,65-74,Male,Black,10.8,8,9.68,Medium,CDC_WONDER_integrated
+copd,65-74,Male,Hispanic,10.8,8,9.68,Medium,CDC_WONDER_integrated
+copd,65-74,Male,Asian,10.8,8,9.68,Medium,CDC_WONDER_integrated
+copd,65-74,Male,Other,10.8,8,9.68,Medium,CDC_WONDER_integrated
+copd,65-74,Female,White,10.8,8,9.68,Medium,CDC_WONDER_integrated
+copd,65-74,Female,Black,10.8,8,9.68,Medium,CDC_WONDER_integrated
+copd,65-74,Female,Hispanic,10.8,8,9.68,Medium,CDC_WONDER_integrated
+copd,65-74,Female,Asian,10.8,8,9.68,Medium,CDC_WONDER_integrated
+copd,65-74,Female,Other,10.8,8,9.68,Medium,CDC_WONDER_integrated
+copd,75+,Male,White,15.0,10,13.0,Medium,CDC_WONDER_integrated
+copd,75+,Male,Black,15.0,10,13.0,Medium,CDC_WONDER_integrated
+copd,75+,Male,Hispanic,15.0,10,13.0,Medium,CDC_WONDER_integrated
+copd,75+,Male,Asian,15.0,10,13.0,Medium,CDC_WONDER_integrated
+copd,75+,Male,Other,15.0,10,13.0,Medium,CDC_WONDER_integrated
+copd,75+,Female,White,15.0,10,13.0,Medium,CDC_WONDER_integrated
+copd,75+,Female,Black,15.0,10,13.0,Medium,CDC_WONDER_integrated
+copd,75+,Female,Hispanic,15.0,10,13.0,Medium,CDC_WONDER_integrated
+copd,75+,Female,Asian,15.0,10,13.0,Medium,CDC_WONDER_integrated
+copd,75+,Female,Other,15.0,10,13.0,Medium,CDC_WONDER_integrated
+pneumonia,0-17,Male,White,0.2,1,0.52,Low,CDC_WONDER_integrated
+pneumonia,0-17,Male,Black,0.2,1,0.52,Low,CDC_WONDER_integrated
+pneumonia,0-17,Male,Hispanic,0.2,1,0.52,Low,CDC_WONDER_integrated
+pneumonia,0-17,Male,Asian,0.2,1,0.52,Low,CDC_WONDER_integrated
+pneumonia,0-17,Male,Other,0.2,1,0.52,Low,CDC_WONDER_integrated
+pneumonia,0-17,Female,White,0.2,1,0.52,Low,CDC_WONDER_integrated
+pneumonia,0-17,Female,Black,0.2,1,0.52,Low,CDC_WONDER_integrated
+pneumonia,0-17,Female,Hispanic,0.2,1,0.52,Low,CDC_WONDER_integrated
+pneumonia,0-17,Female,Asian,0.2,1,0.52,Low,CDC_WONDER_integrated
+pneumonia,0-17,Female,Other,0.2,1,0.52,Low,CDC_WONDER_integrated
+pneumonia,18-34,Male,White,0.6,2,1.1600000000000001,Low,CDC_WONDER_integrated
+pneumonia,18-34,Male,Black,0.6,2,1.1600000000000001,Low,CDC_WONDER_integrated
+pneumonia,18-34,Male,Hispanic,0.6,2,1.1600000000000001,Low,CDC_WONDER_integrated
+pneumonia,18-34,Male,Asian,0.6,2,1.1600000000000001,Low,CDC_WONDER_integrated
+pneumonia,18-34,Male,Other,0.6,2,1.1600000000000001,Low,CDC_WONDER_integrated
+pneumonia,18-34,Female,White,0.6,2,1.1600000000000001,Low,CDC_WONDER_integrated
+pneumonia,18-34,Female,Black,0.6,2,1.1600000000000001,Low,CDC_WONDER_integrated
+pneumonia,18-34,Female,Hispanic,0.6,2,1.1600000000000001,Low,CDC_WONDER_integrated
+pneumonia,18-34,Female,Asian,0.6,2,1.1600000000000001,Low,CDC_WONDER_integrated
+pneumonia,18-34,Female,Other,0.6,2,1.1600000000000001,Low,CDC_WONDER_integrated
+pneumonia,35-49,Male,White,1.4,4,2.44,Low,CDC_WONDER_integrated
+pneumonia,35-49,Male,Black,1.4,4,2.44,Low,CDC_WONDER_integrated
+pneumonia,35-49,Male,Hispanic,1.4,4,2.44,Low,CDC_WONDER_integrated
+pneumonia,35-49,Male,Asian,1.4,4,2.44,Low,CDC_WONDER_integrated
+pneumonia,35-49,Male,Other,1.4,4,2.44,Low,CDC_WONDER_integrated
+pneumonia,35-49,Female,White,1.4,4,2.44,Low,CDC_WONDER_integrated
+pneumonia,35-49,Female,Black,1.4,4,2.44,Low,CDC_WONDER_integrated
+pneumonia,35-49,Female,Hispanic,1.4,4,2.44,Low,CDC_WONDER_integrated
+pneumonia,35-49,Female,Asian,1.4,4,2.44,Low,CDC_WONDER_integrated
+pneumonia,35-49,Female,Other,1.4,4,2.44,Low,CDC_WONDER_integrated
+pneumonia,50-64,Male,White,2.4,6,3.8400000000000003,Low,CDC_WONDER_integrated
+pneumonia,50-64,Male,Black,2.4,6,3.8400000000000003,Low,CDC_WONDER_integrated
+pneumonia,50-64,Male,Hispanic,2.4,6,3.8400000000000003,Low,CDC_WONDER_integrated
+pneumonia,50-64,Male,Asian,2.4,6,3.8400000000000003,Low,CDC_WONDER_integrated
+pneumonia,50-64,Male,Other,2.4,6,3.8400000000000003,Low,CDC_WONDER_integrated
+pneumonia,50-64,Female,White,2.4,6,3.8400000000000003,Low,CDC_WONDER_integrated
+pneumonia,50-64,Female,Black,2.4,6,3.8400000000000003,Low,CDC_WONDER_integrated
+pneumonia,50-64,Female,Hispanic,2.4,6,3.8400000000000003,Low,CDC_WONDER_integrated
+pneumonia,50-64,Female,Asian,2.4,6,3.8400000000000003,Low,CDC_WONDER_integrated
+pneumonia,50-64,Female,Other,2.4,6,3.8400000000000003,Low,CDC_WONDER_integrated
+pneumonia,65-74,Male,White,3.6000000000000005,8,5.36,Medium,CDC_WONDER_integrated
+pneumonia,65-74,Male,Black,3.6000000000000005,8,5.36,Medium,CDC_WONDER_integrated
+pneumonia,65-74,Male,Hispanic,3.6000000000000005,8,5.36,Medium,CDC_WONDER_integrated
+pneumonia,65-74,Male,Asian,3.6000000000000005,8,5.36,Medium,CDC_WONDER_integrated
+pneumonia,65-74,Male,Other,3.6000000000000005,8,5.36,Medium,CDC_WONDER_integrated
+pneumonia,65-74,Female,White,3.6000000000000005,8,5.36,Medium,CDC_WONDER_integrated
+pneumonia,65-74,Female,Black,3.6000000000000005,8,5.36,Medium,CDC_WONDER_integrated
+pneumonia,65-74,Female,Hispanic,3.6000000000000005,8,5.36,Medium,CDC_WONDER_integrated
+pneumonia,65-74,Female,Asian,3.6000000000000005,8,5.36,Medium,CDC_WONDER_integrated
+pneumonia,65-74,Female,Other,3.6000000000000005,8,5.36,Medium,CDC_WONDER_integrated
+pneumonia,75+,Male,White,5.0,10,7.0,Medium,CDC_WONDER_integrated
+pneumonia,75+,Male,Black,5.0,10,7.0,Medium,CDC_WONDER_integrated
+pneumonia,75+,Male,Hispanic,5.0,10,7.0,Medium,CDC_WONDER_integrated
+pneumonia,75+,Male,Asian,5.0,10,7.0,Medium,CDC_WONDER_integrated
+pneumonia,75+,Male,Other,5.0,10,7.0,Medium,CDC_WONDER_integrated
+pneumonia,75+,Female,White,5.0,10,7.0,Medium,CDC_WONDER_integrated
+pneumonia,75+,Female,Black,5.0,10,7.0,Medium,CDC_WONDER_integrated
+pneumonia,75+,Female,Hispanic,5.0,10,7.0,Medium,CDC_WONDER_integrated
+pneumonia,75+,Female,Asian,5.0,10,7.0,Medium,CDC_WONDER_integrated
+pneumonia,75+,Female,Other,5.0,10,7.0,Medium,CDC_WONDER_integrated
