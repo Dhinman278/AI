@@ -1,4 +1,3 @@
-
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # Suppress TensorFlow info/warning messages
 from tensorflow.keras.models import load_model
@@ -36,14 +35,11 @@ import queue
 import time
 import requests
 import networkx as nx
-from tensorflow.keras.applications import ResNet50, VGG16
-from tensorflow.keras.preprocessing.image import img_to_array, load_img
+from tensorflow.keras.applications import ResNet50
+from tensorflow.keras.layers import GlobalAveragePooling2D, Dense, Dropout
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.callbacks import EarlyStopping
-from tensorflow.keras import regularizers
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
-from sklearn.model_selection import StratifiedKFold
-from cryptography.fernet import Fernet
 
 # Optional advanced imports (install if available)
 try:
@@ -1473,8 +1469,8 @@ class PredictiveRiskModelingSystem:
                 cv_risk += 0.3
         
         if 'systolic_bp' in vital_signs:
-            sbp = vital_signs['systolic_bp']
-            current_sbp = sbp[-1] if isinstance(sbp, list) else sbp
+            sys_bp = vital_signs['systolic_bp']
+            current_sbp = sys_bp[-1] if isinstance(sys_bp, list) else sys_bp
             if current_sbp > 140 or current_sbp < 90:
                 cv_risk += 0.4
         
@@ -1812,7 +1808,7 @@ class GenomicsPersonalizedMedicine:
                 recommendation = gene_info['clinical_recommendations'][phenotype]
                 analysis['clinical_recommendations'].append({
                     'recommendation': recommendation,
-                    'drugs': gene_info['drugs_affected'],
+                    'drugs': gene_info['drugs_ffected'],
                     'priority': 'high' if 'toxicity' in recommendation.lower() else 'medium'
                 })
         
@@ -2665,7 +2661,7 @@ class AdvancedAccuracyTestSuite:
             'performance_comparison': {}
         }
         
-        try:
+        try {
             # Test enhanced neural architectures
             input_dim = self.X_test.shape[1]
             num_classes = len(self.label_names)
@@ -2710,9 +2706,10 @@ class AdvancedAccuracyTestSuite:
                 
                 print(f"   ✅ Attention Network Accuracy: {attention_acc:.3f}")
             
-        except Exception as e:
+        } except Exception as e {
             results['error'] = str(e)
             print(f"   ⚠️ Enhanced architecture testing limited: {str(e)[:50]}...")
+        }
         
         return results
     
@@ -3010,7 +3007,7 @@ class AdvancedAccuracyTestSuite:
             'inference_time_ms': 0
         }
         
-        try:
+        try {
             # Test 1: Model loading and prediction
             start_time = time.time()
             test_prediction = self.model.predict(self.X_test[:1], verbose=0)
@@ -3049,9 +3046,10 @@ class AdvancedAccuracyTestSuite:
             print(f"   ✅ Inference Time: {inference_time:.2f} ms")
             print(f"   ✅ Memory Usage: {memory_mb:.2f} MB")
             
-        except Exception as e:
+        } except Exception as e {
             results['error'] = str(e)
             print(f"   ⚠️ Integration testing limited: {str(e)[:50]}...")
+        }
         
         return results
     
@@ -3235,3 +3233,66 @@ for rank, idx in enumerate(top_indices, 1):
 print("\nAll disease probabilities:")
 for idx, name in enumerate(label_names):
     print(f"{name}: {pred[0][idx]:.4f}")
+
+# Train a medical image classification model
+def train_medical_image_model(image_dir, model_save_path="medical_image_model.h5"):
+    img_size = (224, 224)
+    batch_size = 32
+
+    # Data generators
+    datagen = ImageDataGenerator(
+        rescale=1./255,
+        validation_split=0.2,
+        rotation_range=10,
+        zoom_range=0.1,
+        horizontal_flip=True
+    )
+
+    train_data = datagen.flow_from_directory(
+        image_dir,
+        target_size=img_size,
+        batch_size=batch_size,
+        class_mode='categorical',
+        subset='training'
+    )
+    val_data = datagen.flow_from_directory(
+        image_dir,
+        target_size=img_size,
+        batch_size=batch_size,
+        class_mode='categorical',
+        subset='validation'
+    )
+
+    # Build model
+    base_model = ResNet50(weights='imagenet', include_top=False, input_shape=(224,224,3))
+    base_model.trainable = False  # Freeze base
+
+    model = Sequential([
+        base_model,
+        GlobalAveragePooling2D(),
+        Dense(128, activation='relu'),
+        Dropout(0.5),
+        Dense(64, activation='relu'),
+        Dropout(0.3),
+        Dense(len(train_data.class_indices), activation='softmax')
+    ])
+
+    model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+
+    # Train
+    early_stop = EarlyStopping(monitor='val_loss', patience=5, restore_best_weights=True)
+    model.fit(
+        train_data,
+        validation_data=val_data,
+        epochs=30,
+        callbacks=[early_stop]
+    )
+
+    # Save model
+    model.save(model_save_path)
+    print(f"✅ Model trained and saved as {model_save_path}")
+    return model, train_data.class_indices
+
+# Example usage:
+image_dir = "C:/Users/bubhi/OneDrive/Desktop/AI/tfenv311/images"
+model, class_indices = train_medical_image_model(image_dir)
